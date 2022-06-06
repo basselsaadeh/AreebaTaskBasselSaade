@@ -1,5 +1,13 @@
 # AreebaTaskBasselSaade
 
+## Features of the task
+
+There are many features:
+- Add User (if phone is valid)
+- Edit User
+- Delete User
+- Check Phone Number
+
 ## Available Scripts
 
 In the project directory, you can run:
